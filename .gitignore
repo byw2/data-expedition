@@ -3,3 +3,6 @@ venv
 
 # DS Store file
 .DS_Store
+
+# notebook checkpoints
+.ipynb_checkpoints
